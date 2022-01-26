@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jongseok Baek&fontSize=90)
+![header] (https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jongseok Baek&fontSize=90)
 
 
 [![JAVA](https://img.shields.io/badge/java-F7DF1E?style=flat-square&logo=JAVA&logoColor=black)](github.com/Joowon0220/TODO-List)
