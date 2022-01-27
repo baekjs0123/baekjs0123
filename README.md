@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br><br><br>
   
 <h3 align="center">📭 Contact 📭</h3>
-  <a href="baekjs0123@naver.com">
+  <a href="[mailto:baekjs0123@naver.com]">
     <img src="https://img.shields.io/badge/-baekjs0123@naver.com-crimson?style=round-square&logo=gmail&logoColor=white"/>
   </a>
   <br><br><br>
