@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   🌱Back-End 개발자 과정 공부중인 학생입니다.🌱
   
   ## 🧰 skills 🧰
-  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396)](https://github.com/Joowon0220/weather) ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396)] ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) 
   
   ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=round-square&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-JQuery-0769AD?style=round-square&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=round-square&logo=jquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=round-square&logo=python&logoColor=white)
   <br><br><br>
