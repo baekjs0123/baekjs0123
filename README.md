@@ -18,28 +18,21 @@
 ### 🚀 열정적인 풀스택 개발자가 되고 싶은 SSAFY 교육생
 
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;SSAFY+13th+Trainee;Java+%7C+Python+%7C+Vue+%7C+React;Always+Learning+Something+New!;비전공자에서+개발자로!" alt="Typing SVG" />
 </div>
 
 </div>
 
-<!-- Pokeball Design Start -->
-<details open>
-<summary>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="64" height="64" alt="Pokeball"/>
-  <br>
-  <b><font color="#6C5CE7" size="4">🔴 Click to Open Pokeball! 🔴</font></b>
-  <br>
-  <b><font color="#6C5CE7">백종석의 프로필이 들어있어요!</font></b>
-</div>
-</summary>
 
+<div align="center">
+<!-- Pokeball Design Start -->
+
+![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<details>
+<summary>Open profile</summary>
 <div align="center">
 <h2>✨ Welcome to My GitHub Profile! ✨</h2>
-<p><em>포켓볼에서 나온 백종석의 모든 정보를 확인해보세요!</em></p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -262,6 +255,10 @@ const baekJongseok = {
 
 </details>
 
+</div>
+<div align=center>
+
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 </div>
 
 <div align=center>
