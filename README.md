@@ -18,22 +18,20 @@
 ### 🚀 열정적인 풀스택 개발자가 되고 싶은 SSAFY 교육생
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;SSAFY+13th+Trainee;Java+%7C+Python+%7C+Vue+%7C+React;Always+Learning+Something+New!;비전공자에서+개발자로!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;SSAFY+13th+Trainee;Java+%7C+Python+%7C+Vue+%7C+React;Always+Learning+Something+New!;비전공자에서+개발자로!" alt="Typing SVG" />
 </div>
 
 </div>
 
 <!-- Pokeball Design Start -->
-<details>
+<details open>
 <summary>
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="64" height="64" alt="Pokeball"/>
   <br>
-  <strong style="color: #6C5CE7; font-size: 18px;">🔴 Click to Open Pokeball! 🔴</strong>
+  <b><font color="#6C5CE7" size="4">🔴 Click to Open Pokeball! 🔴</font></b>
   <br>
-  <em style="color: #4F46E5;">백종석의 프로필이 들어있어요!</em>
+  <b><font color="#6C5CE7">백종석의 프로필이 들어있어요!</font></b>
 </div>
 </summary>
 
@@ -138,6 +136,7 @@ const baekJongseok = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baekjs0123&theme=tokyonight&border=6C5CE7" alt="baekjs0123" />
 </div>
 <p align="center"><img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400"></p>
+
 ---
 
 ## 🎯 주요 프로젝트
