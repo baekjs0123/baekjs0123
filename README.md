@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;SSAFY+13th+Trainee;Java+%7C+Python+%7C+Vue+%7C+React;Always+Learning+Something+New!;비전공자에서+개발자로!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Full+Stack+Developer;SSAFY+13th+Trainee;Java+%7C+Python+%7C+Vue+%7C+React;Always+Learning+Something+New!;" alt="Typing SVG" /></a>
 </div>
 
 </div>
