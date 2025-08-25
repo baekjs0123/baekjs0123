@@ -143,9 +143,9 @@ const baekJongseok = {
 
 ### 🏆 SSAFY 1학기 관통프로젝트
 
-**프로젝트명**: SSAFY 1학기 최종 프로젝트  
-**저장소**: [🔗 프로젝트 보러가기](https://github.com/baekjs0123/SSAFY_1st_project)  
-**설명**: SSAFY 1학기 과정에서 진행한 관통프로젝트  
+**프로젝트명**: Right Now  
+**저장소**: [🔗 프로젝트 보러가기](https://github.com/baekjs0123/SSAFY-1st-final-project)
+**설명**: SSAFY 1학기에 진행한 최종프로젝트  
 **기술 스택**:  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
