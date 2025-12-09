@@ -67,6 +67,7 @@ const baekJongseok = {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -87,6 +88,7 @@ const baekJongseok = {
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -95,6 +97,8 @@ const baekJongseok = {
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -111,6 +115,7 @@ const baekJongseok = {
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -143,15 +148,118 @@ const baekJongseok = {
 
 ### 🏆 SSAFY 1학기 관통프로젝트
 
-**프로젝트명**: Right Now  
+**프로젝트명**: Right Now
 **저장소**: [🔗 프로젝트 보러가기](https://github.com/baekjs0123/SSAFY-1st-final-project)
-**설명**: SSAFY 1학기에 진행한 최종프로젝트  
-**기술 스택**:  
+**설명**: SSAFY 1학기에 진행한 최종프로젝트
+**기술 스택**:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### 🦙 SSAFY 2학기 공통프로젝트
+
+**프로젝트명**: Alpacar (알파카)
+**저장소**: [🔗 프로젝트 보러가기](https://github.com/baekjs0123/SSAFY-common-project)
+**기간**: 2025.07.14 ~ 2025.08.19 (6주)
+**역할**: PM 📋 & Frontend 🎨
+**설명**: 사용자의 차량 크기와 주차 실력을 고려해 최적의 주차 공간을 자동 추천하는 스마트 주차 관리 시스템
+**주요 기능**:
+- 🔍 번호판 객체탐지 & OCR 인식
+- 🅿️ 최적 주차 구역 자동 추천
+- 📱 웹 앱(PWA) 기반 사용자 안내
+- 🖥 관리자 실시간 모니터링
+
+**기술 스택**:
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+---
+
+### 👗 SSAFY 2학기 특화프로젝트 (🥇 우수상 1위)
+
+**프로젝트명**: On-Wear
+**저장소**: [🔗 프로젝트 보러가기](https://github.com/On-Wear-SSAFY-13)
+**기간**: 2025.08.25 ~ 2025.09.29 (4주)
+**역할**: Frontend 🎨
+**설명**: Stable Diffusion 기반 가상 시착 서비스 - 사진 한 장만으로 원하는 옷을 착용해볼 수 있고, 유사도 기반 검색 시스템을 통해 맞춤형 코디 경험 제공
+**주요 기능**:
+- 👔 IDM-VTON 기반 가상 시착
+- 🔍 이미지 기반 유사 상품 검색
+- 📊 행동 데이터 기반 맞춤 추천
+
+**기술 스택**:
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+
+---
+
+### 🚀 SSAFY 2학기 기업연계프로젝트 (🥇 우수상 1위, 🏅 결선 입상 4위)
+
+**프로젝트명**: HEBEES
+**저장소**: [🔗 프로젝트 보러가기](https://lab.ssafy.com/s13-final/S13P31S407)
+**기간**: 2025.10.10 ~ 2025.11.20 (6주)
+**역할**: Backend ⚙️ & AI 🤖
+**설명**: RAG 기반 지능형 문서 검색 및 답변 생성 플랫폼 - 마이크로서비스 아키텍처로 확장 가능한 RAG 파이프라인 구축
+**주요 기능**:
+- 📄 다양한 문서 형식 지원 (PDF, DOCX, XLSX, TXT, 이미지)
+- 🔍 벡터 검색과 LLM 결합 답변 생성
+- 📊 RAG 파이프라인 커스터마이징
+- 💬 실시간 스트리밍 응답
+
+**기술 스택**:
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </div>
 
@@ -192,28 +300,23 @@ const baekJongseok = {
     <td>2025.05.26 ~ 2025.07.11</td>
     <td>🥈 준우승</td>
   </tr>
+  <tr>
+    <td><strong>SSAFY 13기 특화프로젝트</strong></td>
+    <td>2025.08.25 ~ 2025.09.29</td>
+    <td>🥇 우수상 (1위)</td>
+  </tr>
+  <tr>
+    <td><strong>SSAFY 13기 기업연계프로젝트</strong></td>
+    <td>2025.10.10 ~ 2025.11.20</td>
+    <td>🥇 우수상 (1위)</td>
+  </tr>
+  <tr>
+    <td><strong>SSAFY 13기 전시발표회</strong></td>
+    <td>2025.12.02</td>
+    <td>🏅 입상 (118개 팀 중 4위)</td>
+  </tr>
 </table>
 </div>
-
----
-
-## 🏆 성취 & 활동
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baekjs0123&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
-## 🎯 2025년 목표
-
-- [x] 🚀 SSAFY 13기 입과 성공
-- [ ] 💻 Spring Boot & JPA 마스터하기
-- [ ] 🌐 AWS 서비스 깊이 있게 학습하기
-- [ ] 📱 의미있는 프로젝트 완성하기
-- [ ] 🔍 오픈소스 프로젝트에 기여하기
-- [ ] 💼 개발자로 첫 취업하기
-- [ ] 📚 CS 기초 지식 탄탄히 다지기
 
 ---
 
